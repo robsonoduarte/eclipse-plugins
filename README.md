@@ -7,6 +7,6 @@ Learning Eclipse Plguins (PDE)
 
 
 
-   > **All projects in here repo are based in this book:**
-  ___________________________________________________  
-    Eclipse 4 Plug-in Development by Example by Dr. Alex Blewitt
+   > **All projects in this repo are based in this book:**
+  ___________________________________________________
+    Eclipse 4 Plug-in Development by Example --> Dr. Alex Blewitt
