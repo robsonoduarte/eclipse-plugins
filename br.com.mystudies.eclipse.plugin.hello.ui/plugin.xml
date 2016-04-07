@@ -52,7 +52,7 @@
             <command
                   commandId="br.com.mystudies.eclipse.plugin.hello.ui.commands.sampleCommand"
                   icon="icons/sample.gif"
-                  tooltip="Say hello world"
+                  tooltip="Say hello eclipse plugin"
                   id="br.com.mystudies.eclipse.plugin.hello.ui.toolbars.sampleCommand">
             </command>
          </toolbar>
