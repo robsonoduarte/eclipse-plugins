@@ -28,7 +28,7 @@ public class SampleHandler extends AbstractHandler {
 		MessageDialog.openInformation(
 				window.getShell(),
 				"Hello ui",
-				"Hello the first eclipse plguin ui");
+				"Test updating code in debugger");
 		return null;
 	}
 }
