@@ -24,6 +24,8 @@ public class SampleHandler extends AbstractHandler {
 	 * from the application context.
 	 */
 	public Object execute(ExecutionEvent event) throws ExecutionException {
+
+
 		IWorkbenchWindow window = HandlerUtil.getActiveWorkbenchWindowChecked(event);
 		MessageDialog.openInformation(
 				window.getShell(),
@@ -31,4 +33,7 @@ public class SampleHandler extends AbstractHandler {
 				"Test updating code in debugger");
 		return null;
 	}
+
+
+
 }
